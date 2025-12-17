@@ -31,7 +31,7 @@ function displayMovies(movies){
         title.textContent = movie.title
 
         let releaseDate = document.createElement('p')
-        releaseDate.textContent = 'La fecha de lanzamiento fue: ' + movie.release_Date
+        releaseDate.textContent = 'La fecha de lanzamiento fue: ' + movie.release_date
 
         let overview = document.createElement('p')
         overview.textContent = movie.overview
