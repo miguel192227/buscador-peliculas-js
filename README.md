@@ -12,7 +12,6 @@ Aplicación web para buscar y visualizar información de películas utilizando l
 - Búsqueda de películas por nombre
 - Visualización de resultados dinámicamente
 - Manejo de peticiones asincrónicas
-- Manejo de errores básicos
 - Indicador de carga durante las peticiones
 
 ## 📚 Qué aprendí
